@@ -21,6 +21,8 @@
 		"vite": "^6.2.5"
 	},
 	"dependencies": {
-		"@sanity/client": "^6.29.0"
+		"@sanity/client": "^6.29.0",
+		"@splidejs/splide": "^4.1.4",
+		"swiper": "^11.2.6"
 	}
 }
